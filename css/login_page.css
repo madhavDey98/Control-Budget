@@ -1,0 +1,19 @@
+.panel{
+	margin-top:10%;
+	height:350%;
+}
+#btchng{
+	width:100%;
+	margin-top:8%;
+	margin-bottom:8%;
+}
+.row{
+	margin-top:5%;
+	width:65%;
+	margin-left:19%;
+}
+.panel-heading{
+	font-weight: bold;
+	font-family: PT Serif;
+	font-size: 130%
+}

@@ -1,0 +1,22 @@
+.footer-bottom{
+    background: #38291f;
+    height:30px;
+    width:100%;
+    text-align:center;
+    position:absolute;
+    padding-top:5px;
+    margin-top:7.4%;
+    bottom: 0px;
+    font-family: PT Serif;
+	color: #cfc0b7;
+}
+.navbar{
+     font-weight:600;
+}
+
+.container{
+	margin-top: 90px;
+}
+h3{
+	color: blue;
+}
